@@ -1,6 +1,7 @@
 # Automation files
 upload_gifs_to_github.py
 Run_GIF_Upload.bat
+Create_2026_Folders.bat
 
 # Python cache
 __pycache__/
